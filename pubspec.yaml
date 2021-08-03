@@ -1,7 +1,6 @@
 name: custom_button
 description: Customizable button package
 version: 0.0.1
-author: Abhilash Hegde <hegdeabhilash19@gmail.com>
 homepage: 'https://github.com/abhi16180'
 
 environment:
